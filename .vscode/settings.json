@@ -14,8 +14,8 @@
   "explorer.compactFolders": false,
 
   // workbench
-  "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreview": true,
+  "workbench.iconTheme": "vs-seti",
   "workbench.colorTheme": "Omni",
 
   // prettier
